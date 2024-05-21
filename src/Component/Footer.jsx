@@ -1,6 +1,6 @@
 const Footer = () => {
     return(
-        <div className="flex justify-center items-center px-16 py-20 text-white bg-neutral-700 rounded-[40px_40px_0px_0px] max-md:px-5">
+        <div className="flex justify-center items-center px-16 py-20 text-white bg-neutral-700 rounded-[40px_40px_0px_0px] max-md:px-5 w-full">
       <div className="flex flex-col mt-6 w-full max-w-[1016px] max-md:max-w-full">
         <div className="self-center text-5xl font-bold leading-[80.16px] max-md:max-w-full max-md:text-4xl">
           Ready to Get Started
