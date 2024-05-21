@@ -1,3 +1,6 @@
+# Description
+This is the landing page for our fourth semester project. it is not intended for commercial use.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
