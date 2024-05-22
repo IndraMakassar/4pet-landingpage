@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "pet-8bf91"
+  },
+  "targets": {
+    "pet-8bf91": {
+      "hosting": {
+        "four-pet": [
+          "four-pet"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
