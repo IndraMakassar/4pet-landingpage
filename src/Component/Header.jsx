@@ -17,11 +17,6 @@ function Header() {
                   Aplikasi untuk anda yang ingin mencari peliharaan lain untuk
                   peliharaan anda.
                 </div>
-                <img
-                  loading="lazy"
-                  srcSet={iconDownload}
-                  className="mt-12 max-w-full aspect-[3.23] w-[386px] max-md:mt-10"
-                />
               </div>
             </div>
             <div className="flex flex-col ml-5 w-[37%] max-md:ml-0 max-md:w-full">

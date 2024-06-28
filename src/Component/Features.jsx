@@ -18,11 +18,11 @@ return(
                 />
                 <div className="flex flex-col items-center px-4 py-12 bg-white border border-solid border-zinc-300 rounded-[30px]">
                   <div className="text-4xl font-bold text-black leading-[80px]">
-                    Pet Tinder
+                    Pet Matching
                   </div>
                   <div className="shrink-0 mt-2 h-[3px] w-[215px] bg-gradient-to-r from-pink-500 to-black"></div>
 
-                  <div className="self-stretch mt-4 text-2xl leading-6 text-neutral-600">
+                  <div className="self-stretch mt-4 text-2xl leading-6 text-neutral-600 text-justify mx-4">
                     Kawinkan Peliharaan anda dengan aman dan sehat dengan 4PET
                     APP
                   </div>
@@ -33,10 +33,10 @@ return(
               <div className="flex flex-col grow justify-center mt-36 max-md:mt-10">
                 <div className="flex flex-col items-center px-4 pt-12 pb-16 bg-white border border-solid border-zinc-300 rounded-[30px]">
                   <div className="text-4xl font-bold text-black leading-[80px]">
-                    Pet Market
+                    Pet Adoptioin
                   </div>
                   <div className="shrink-0 mt-2 h-[3px] w-[215px] bg-gradient-to-r from-pink-500 to-black"></div>
-                  <div className="self-stretch mt-6 text-2xl leading-5 text-neutral-600">
+                  <div className="self-stretch mt-6 text-2xl leading-5 text-neutral-600 text-justify mx-4">
                     Anda dapat mengadopsi peliharaan yang anda sukai
                   </div>
                 </div>
@@ -54,7 +54,7 @@ return(
                     Pet Profile
                   </div>
                   <div className="shrink-0 mt-2 h-[3px] w-[215px] bg-gradient-to-r from-pink-500 to-black"></div>
-                  <div className="self-stretch mt-6 text-2xl leading-5 text-neutral-600">
+                  <div className="self-stretch mt-6 text-2xl leading-5 text-neutral-600 text-justify mx-4">
                     Kenalkan hewan anda dengan Pet Profile.
                   </div>
                 </div>

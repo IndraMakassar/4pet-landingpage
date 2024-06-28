@@ -20,12 +20,12 @@ function App() {
                         <Features/>
                     </div>
                 </div>
-                <div id="howToWork" className="w-full max-md:px-4 flex justify-center items-center">
+                <div id="howToWork" className="w-full max-md:px-4 flex justify-center items-center mb-20">
                     <HowToWork/>
                 </div>
-                <div id="review" className="w-full max-md:px-4">
+                {/* <div id="review" className="w-full max-md:px-4">
                     <Review/>
-                </div>
+                </div> */}
             </div>
             <Footer/>
         </div>
